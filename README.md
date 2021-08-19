@@ -3,9 +3,10 @@ List of string occurrence through a directory recursively
 
 Assumptions:
 1)  Script will decide space charecter as delimiter to find the string
-2)  Script will optionall take the target folder and the file extension
-3)  If script doesnt have any paramters, it will take default present work directory and wild card file extension
-4)  Script usage can be found with "-h" parameter
+2)  String upper case and lower case treated as diffrent string
+3)  Script will optionall take the target folder and the file extension
+4)  If script doesnt have any paramters, it will take default present work directory and wild card file extension
+5)  Script usage can be found with "-h" parameter
 
 
 Steps to test the script:
